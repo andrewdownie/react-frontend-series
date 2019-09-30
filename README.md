@@ -1,3 +1,4 @@
+Work in progress.  
 # react-frontend-series
 ## Stage 1
 https://github.com/andrewdownie/1-react-material-ui
